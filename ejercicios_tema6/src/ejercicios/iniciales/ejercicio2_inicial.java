@@ -15,7 +15,7 @@ public class ejercicio2_inicial {
 
             }
         }
-        System.out.println("El resultado es" + suma);
+        System.out.println("El resultado es " + suma);
     }
     public static int pedirNumeroUsuario(String msg) {
 

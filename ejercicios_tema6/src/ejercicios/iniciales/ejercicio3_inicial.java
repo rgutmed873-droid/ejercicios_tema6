@@ -9,7 +9,7 @@ public class ejercicio3_inicial {
         int negativo = 0;
         int positivos = 0;
         for (int i = 0; i < numero; i++) {
-            System.out.println("Introduce el numero " + i+1);
+            System.out.println("Introduce el numero " + i);
             int num = sc.nextInt();
             if (i <0){
 
@@ -28,7 +28,7 @@ public class ejercicio3_inicial {
 
         Scanner sc = new Scanner(System.in);
         System.out.println(msg);
-        int num=sc.nextInt();
+        int num = sc.nextInt();
         return  num;
     }
 }
