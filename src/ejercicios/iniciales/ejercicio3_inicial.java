@@ -16,7 +16,7 @@ public class ejercicio3_inicial {
                 System.out.println("Los números negativos introducidos son " + negativos);
             } else if (i>=0) {
 
-                int positivos = i++;
+                int positivos = i+;
                 System.out.println("Los número positivos introducidos son " + positivos);
             }
 
