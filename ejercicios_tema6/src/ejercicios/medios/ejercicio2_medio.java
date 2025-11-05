@@ -28,7 +28,7 @@ public class ejercicio2_medio {
             }
         }
         System.out.println("El numero mayor es " + mayor);
-        System.out.println("El numero menor es " + menor);
+        System.out.println("El numero menor es  " + menor);
     }
 
     private static int pedirNumero(String msg) {
